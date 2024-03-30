@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Shayani01
-- 👀 I’m interested in SQL,Advanced excel
-- 🌱 I’m currently learning tableu
+- 👋 Hi, I’m Shayani Mondal
+- 👀 I’m interested in SQL,Advanced excel,Tableau,R.
+- 🌱 I’m currently learning Power Bi,
 - 💞️ I’m looking to collaborate on SQL
-- 📫 How to reach me ...
+- 📫 Reach me shayanimondal97@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am Giggly-wiggly Person ,love Word-table.👓
 
 <!---
 Shayani01/Shayani01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
